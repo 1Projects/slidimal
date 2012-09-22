@@ -1,0 +1,4 @@
+slidimal
+========
+
+Animal Slideshow
